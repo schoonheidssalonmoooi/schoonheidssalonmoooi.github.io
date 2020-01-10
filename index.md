@@ -10,4 +10,4 @@ In 2004 ben ik begonnen als zelfstandige in mijn salon aan huis. Na anderhalf ja
 
 Kapellestraat 26 is echt een plek geworden waar je tot jezelf kunt komen. Er wordt uitsluitend op afspraak gewerkt, waardoor u echt in alle rust van uw behandeling kunt genieten. 
 
-Uiteraard zijn zowel mannen als vrouwen welkom bij mij!
+Uiteraard zijn zowel mannen als vrouwen welkom bij mij! 
