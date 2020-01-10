@@ -1,0 +1,349 @@
+/* CSS Document */
+.clr {
+	clear: both;
+}
+body {
+	margin: 0px 0px 0px 0px;
+	height: 100%;
+	padding: 0px;
+	font-family: Arial, Helvetica, Sans Serif;
+	font-size: 11px;
+	color: #000000;
+	background-color: #A5DDF8;
+}
+P
+{
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color:#000000;
+}
+
+TD
+{
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 11px;
+	color:#000000;
+}
+h4
+{
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;
+	color:#000000;
+}
+.tinytext {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 9px;
+	color: #000000;
+}
+.total {
+	margin-top: 30px;
+	background: url("../images/footer.gif");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	width: 1004px;
+	min-height: 753px;
+	/*height: 753px;*/
+	background-color: #66CCFF;
+}
+.header{
+	background: url("../images/header.gif");
+	background-color: #A5DDF8;
+	height: 259px;
+}
+.main {
+	min-height: 480px;
+	height: 480px;
+	padding-right: 30px;
+	padding-left: 10px;
+}
+.main .menu {
+	float: left;
+	width: 150px;
+}
+.main .body {
+	float: left;
+	width: 520px;
+}
+
+.gallery_item{
+float: left;
+margin: 5px;
+}
+
+.gallery_item a:link, a:visited {
+	text-decoration: none;
+	color: #66CCFF;
+}
+
+.gallery_item a:hover {
+	color: #66CCFF;
+	text-decoration: underline;
+}
+
+.footer {
+	clear: both;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	overflow: visible;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* mambo core stuff */
+a:link, a:visited {
+	text-decoration: none;
+	color:#FFFFFF;
+}
+
+a:hover {
+	color: #CCCC00;
+	text-decoration: underline;
+}
+#main_area a:link, a:visited { 
+text-decoration: none;
+color:#6666CC;
+}
+#main_area a:hover { 
+text-decoration: underline;
+color:#666666;
+}
+table.contentpaneopen {
+	width:100%;
+	padding: 0px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	font-size: xx-large;
+
+}
+table.contentpaneopen td.componentheading {
+	padding-left: 4px;
+	font-weight:bold;
+
+}
+
+table.contentpaneopen td.contentheading {
+  padding-left: 18px;
+  vertical-align:top;
+  padding-top: 5px;
+  padding-bottom:0px;
+  font-weight:bold;
+}
+
+table.contentpane td {
+	margin: 0px;
+	padding: 0px;
+}
+table.contentpane td.componentheading {
+	padding-left: 4px;
+	font-weight:bold;
+}
+
+table.contentpane td.contentheading {
+  padding-left: 15px;
+  vertical-align:top;
+  padding-top: 0px;
+  padding-bottom:10px;
+  font-weight:bold;
+}
+
+.button {
+	padding: 1px 5px 2px 5px;
+	color: #ff6600;
+	font-family: Arial, Helvetica, Sans Serif;
+	text-align: center;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+.top_inputbox {
+	padding: 2px;
+	padding-left: 10px;
+	font-size: 10px;
+	color: #ff9900;
+	height: 22px !important;
+	height: 20px;
+	width:177px;
+	background: url(../images/mbt_shopping_header_01.gif);
+	border: 1px;
+}
+.inputbox {
+	padding: 2px;
+
+}
+.contentcolumn {
+	padding-right: 5px;
+}
+
+.contentheading {
+	height: 21px;
+	background: url(../images/contenthead.gif)  repeat-x;
+	color: #000000;
+	text-align: left;
+	padding-top: 0px;
+	padding-left: 20px;
+	font-weight: bold;
+	font-size: 11px;
+}
+
+.contentpagetitle {
+	font-size: 13px;
+	font-weight: bold;
+	color: #cccccc;
+	text-align:left;
+	padding-bottom: 0px;
+}
+
+table.searchinto {
+	width: 100%;
+}
+
+table.searchintro td {
+	font-weight: bold;
+}
+
+table.moduletable {
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	width: 172px;
+}
+table.moduletable th {
+	font-size: 10px;
+	text-align: center !important;
+	text-align:center;
+	padding-top: 4px;
+	padding-left: 0px;
+	height: 23px;
+	text-decoration: none;
+	width:172px;
+	text-transform:uppercase;
+}
+
+table.moduletable td {
+	font-size: 11px;
+	padding-left: 5px;
+	padding-right: 2px;
+	font-weight: normal;
+}
+table.pollstableborder td {
+  background: url(../images/spacer.gif)
+}
+
+.sectiontableheader {
+  font-weight: bold;
+  background: #f0f0f0;
+  padding: 4px;
+}
+.sectiontablefooter {
+text-align: center;
+}
+
+.sectiontableentry1 {
+	background-color : #f9f9f9;
+}
+
+.sectiontableentry2 {
+	background-color : #f9f9f9;
+}
+
+.small {
+	height: 15px;
+	padding-top: 0px;
+	color:#336600;
+	font-size: 11px;
+}
+
+.createdate {
+	height: 15px;
+	padding-top: 0px;
+	color:#336600;
+	font-size: 11px;
+}
+.modifydate {
+	height: 15px;
+	padding-top: 10px;
+	color:#336600;
+	font-size: 11px;
+}
+
+table.contenttoc {
+  border: 1px solid #cccccc;
+  padding: 2px;
+  margin-left: 2px;
+  margin-bottom: 2px;
+}
+
+table.contenttoc th {
+ 	color: #000000;
+	border-bottom: 1px solid #cccccc;
+	text-align: center;
+	padding-top: 2px;
+	padding-left: 4px;
+	height: 21px;
+	font-weight: bold;
+	font-size: 10px;
+	text-transform: uppercase;
+}
+#mainlevel-nav a {
+float: right; 
+text-decoration: none;
+color:#669900;
+}
+#mainlevel-nav a {
+float: none;
+}
+#mainlevel-nav a:hover {
+color: #ff6600;
+}
+
+a.mainlevel:link, a.mainlevel:visited {
+	display: block;
+	text-align: left;
+	padding-top: 4px;
+	padding-left: 12px;
+	height: 18px !important;
+	height: 20px;
+	text-shadow:Red;
+	text-decoration: none;
+}
+a.mainlevel:hover {
+	background-position: 0px -16px;
+	text-decoration: underline;
+	color: #CCCCCC;
+}
+
+a.sublevel:link, a.sublevel:visited {
+	padding-left: 1px;
+	vertical-align: middle;
+	color: #ff6600;
+	text-align: left;
+}
+
+a.sublevel:hover {
+	color: #ffcc00;
+	text-decoration: underline;
+}
+.highlight {
+	background-color: Yellow;
+	color: Blue;
+	padding: 0px 2px 0px 2px;
+}
+.code {
+	background-color: #ddd;
+	border: 1px solid #bbb;
+}
