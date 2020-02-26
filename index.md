@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welkom op de site van schoonheidssalon MOOOI.
+Welkom op de site van schoonheidssalon MOOOI.
 
 Ik ben Carolien de Wit-Boerefijn en ben sinds 1995 werkzaam als schoonheidsspecialiste.
 
