@@ -17,12 +17,12 @@ De producten worden altijd aan uw huidtype aangepast. Bovenstaande behandelingen
 Voor deze behandelingen kunt u een aparte afspraak maken, maar uiteraard zijn ze ook te combineren met één van de gezichtsbehandelingen. 
 * Epileren van wenkbrauwen
 * Verven van de wenkbrauwen en/of wimpers
-* Harsen bovenlip en/of kin en/of wangen
-* Harsen rug
-* Harsen onder- en/of bovenbenen
-* Harsen bikinilijn
-* Harsen oksels
+* Harsen of bodysugaring bovenlip en/of kin en/of wangen
+* Harsen of bodysugaring rug
+* Harsen of bodysugaring onder- en/of bovenbenen
+* Harsen of bodysugaring bikinilijn
+* Harsen of bodysugaring oksels
 * Make-up
 * Rugbehandeling (½uur) : Dit is een dieptereiniging voor de rug dmv peeling tijdens het stomen, meeëters worden verwijderd en ter afsluiting een rugmassage met een vitamine olie. 
 
-Ook bruidjes kunnen bij schoonheidssalon MOOOI terecht. Dit gaat altijd samen met een proefmake-up, waarvoor we minstens een week voor de bruiloft een afspraak maken in de salon. Dit neemt de stress op de grote dag zelf weg, je weet zeker dat het een make-up wordt waar jij je lekker mee voelt! Niet onbelangrijk op zo’n grote dag! 
+Ook bruidjes kunnen bij schoonheidssalon MOOOI terecht. Dit gaat altijd samen met een proef make-up, waarvoor we minstens een week voor de bruiloft een afspraak maken in de salon. Dit neemt de stress op de grote dag zelf weg, je weet zeker dat het een make-up wordt waar jij je lekker mee voelt! Niet onbelangrijk op zo’n grote dag! 
