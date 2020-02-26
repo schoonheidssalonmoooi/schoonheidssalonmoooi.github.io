@@ -21,4 +21,4 @@ Er zijn vele voordelen t.o.v. “normaal” harsen:
 * 100 % hygiënisch
 * Haren kunnen al verwijderd worden vanaf 2 millimeter lengte
 
-De behandeling is arbeidsintensiever dan de traditionele methodes dus daardoor ook iets duurder. Informeer voor prijzen via de contactpagina.
+De behandeling is arbeidsintensiever dan de traditionele methodes dus daardoor ook iets duurder. Informeer voor prijzen via whatsapp of telefonisch.
