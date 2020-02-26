@@ -10,7 +10,7 @@ Alle overbeharing op het lichaam en gezicht kan hiermee gedaan worden. Zelfs de 
 
 Als u een vervolgbehandeling laat doen op het moment dat de haren twee millimeter groot zijn, is het mogelijk dat, na diverse behandelingen, de haargroei voor een groot deel niet meer terugkomt. 
 
-Er zijn vele voordelen t.o.v. “normaal” harsen: 
+Er zijn vele voordelen t.o.v. “normaal” harsen:
 
 * 100 % natuurlijke ingrediënten
 * Het is niet heet, dus geen brandwondjes
