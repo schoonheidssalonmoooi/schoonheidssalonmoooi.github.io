@@ -1,5 +1,5 @@
 ---
-layout: Default2
+layout: default
 ---
 
 # BODY SUGARING   
