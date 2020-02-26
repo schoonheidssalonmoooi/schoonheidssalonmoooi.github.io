@@ -16,4 +16,4 @@ Let op, vanaf 1 maart 2020 is mijn nieuwe adres:
 Goudsestraatweg 8  
 3421 GJ Oudewater
 
-![alt text](/images/gallery/klussen nieuwe salon.jpg "Logo Title Text 1")
+![alt text](/images/gallery/Klussen%20nieuwe%20salon.jpg "Logo Title Text 1")
