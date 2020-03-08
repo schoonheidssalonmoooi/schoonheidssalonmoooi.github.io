@@ -13,4 +13,4 @@ Goudsestraatweg 8
 Bellen voor informatie en/of afspraak: 06-52056023  
 
 
-![alt text](/images/gallery/salonpandsille2.jpg "Logo Title Text 1")
+![alt text](/images/gallery/salonpandsille2.jpg "VESTING kleineGRACHT")
