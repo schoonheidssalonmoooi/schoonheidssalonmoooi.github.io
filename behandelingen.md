@@ -1,5 +1,5 @@
 ---
-layout: backgroundtreatments
+layout: default3
 ---
 
 ## Behandelingen
