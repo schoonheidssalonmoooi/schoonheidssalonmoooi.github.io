@@ -23,24 +23,5 @@ Er zijn vele voordelen t.o.v. “normaal” harsen:
 
 De behandeling is arbeidsintensiever dan de traditionele methodes dus daardoor ook iets duurder. Informeer voor prijzen via whatsapp of telefonisch.
 
-* 100 % natuurlijke ingrediënten
-* Het is niet heet, dus geen brandwondjes
-* Het is met water te verwijderen, dus geen plakresten
-* Hecht niet aan de huid
-* Door de speciale techniek breken de haren niet of nauwelijks af
-* Ook geschikt voor de meest gevoelige huid
-* 100 % hygiënisch
-* Haren kunnen al verwijderd worden vanaf 2 millimeter lengte
 
-* 100 % natuurlijke ingrediënten
-* Het is niet heet, dus geen brandwondjes
-* Het is met water te verwijderen, dus geen plakresten
-* Hecht niet aan de huid
-* Door de speciale techniek breken de haren niet of nauwelijks af
-* Ook geschikt voor de meest gevoelige huid
-* 100 % hygiënisch
-* Haren kunnen al verwijderd worden vanaf 2 millimeter lengte
-
-
-![alt text](/images/gallery/sugaring.jpg "Sugaring")
 
