@@ -4,11 +4,33 @@ layout: default
 
 ## Behandelingen
 
-Complete behandeling (1 ½ uur) : Oppervlaktereiniging, epileren van de wenkbrauwen, dieptereiniging met behulp van stoomapparaat en peeling of lysing, uitdrukken van meeëters en verwijderen van gerstekorrels, uitgebreide gezichts- en schoudermassage, masker, dagcrème en ter afsluiting lichte make-up (indien gewenst).
+Complete gezichtsbehandeling
+1 ½ uur behandeling inclusief dieptereiniging, epileren van de wenkbrauwen,
+op het huidtype aangepast masker en massage van gezicht, décolleté en nek
 
-Quick behandeling (¾ uur) : Oppervlaktereiniging, dieptereiniging met behulp van stoomapparaat en peeling of lysing, uitdrukken van meeëters en verwijderen van gerstekorrels, masker en tijdens het inwerken van het masker worden uw schouders gemasseerd en ter afsluiting wordt de  dagcrème aangebracht.
+Complete gezichtsbehandeling Deluxe
+Als complete gezichtsbehandeling, aangevuld met een diep werkend
+serum, inclusief een ampul voor vier dagen, wat het effect van de
+behandeling thuis nog versterkt
 
-Quick behandeling inclusief epileren (1 uur) : Zelfde als hierboven, maar dan inclusief het epileren van de wenkbrauwen.
+Trattamento behandeling
+Als complete gezichtsbehandeling, gebruik makend van een zuiver 
+plantaardig, op het huidtype aangepast totaalpakket van producten,
+waaronder gevriesdroogde kruiden, met een mooi verstevigend resultaat
+
+Vital Vitamin C behandeling
+Als complete gezichtsbehandeling, met ter afsluiting een speciaal
+rubbermasker dat rosacea tegengaat, een anti-ageing effect heeft en de 
+weerstand van de huid verhoogt, waardoor deze er rustig en egaal uit ziet
+ 
+Skin Detox behandeling
+Als complete gezichtsbehandeling, met ter afsluiting een speciaal
+rubbermasker dat ontgift, zuivert, de huidstofwisseling activeert, de
+gestresste huid regenereert en een fris en stralend uiterlijk geeft
+
+Quick gezichtsbehandeling
+1 uur behandeling, inclusief dieptereiniging, op het huidtype aangepast 
+masker en korte schoudermassage
 
 De producten worden altijd aan uw huidtype aangepast. Bovenstaande behandelingen kunnen worden uitgebreid met een deelbehandeling, bijvoorbeeld het harsen van uw bovenlip of gezicht, verven van de wimpers en/of wenkbrauwen. Uiteraard is het ook mogelijk hiervoor een losse afspraak te maken, de deelbehandelingen hoeven niet per definitie gecombineerd te worden met een gezichtsbehandeling. 
 
