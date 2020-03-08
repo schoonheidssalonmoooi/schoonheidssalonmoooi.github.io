@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: backgroundhome
 ---
 
 Welkom op de site van schoonheidssalon MOOOI.
