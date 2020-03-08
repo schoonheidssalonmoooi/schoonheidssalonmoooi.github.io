@@ -1,5 +1,5 @@
 ---
-layout: backgroundprod
+layout: backgroundproducts
 ---
 
 # Producten
