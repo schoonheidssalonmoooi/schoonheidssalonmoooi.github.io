@@ -11,6 +11,6 @@ In 2004 ben ik als zelfstandige begonnen in de binnenstad van Oudewater. Sinds 1
 Goudsestraatweg 8  
 3421 GJ Oudewater  
 
-Mijn salon is gevestigd in het mooie pand van Sille Galerie & Kunstuitleen. Er wordt uitsluitend op afspraak gewerkt, waardoor u echt in alle rust van uw behandeling kunt genieten. 
+Mijn salon is gevestigd in Verzamelgebouw VESTING kleineGRACHT (Galerie Sille). Er wordt uitsluitend op afspraak gewerkt, waardoor u echt in alle rust van uw behandeling kunt genieten. 
 
 Uiteraard zijn zowel mannen als vrouwen welkom bij mij! 
