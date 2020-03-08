@@ -6,7 +6,7 @@ layout: default
 
 Carolien de Wit-Boerefijn
 
-(Sille Galerie & Kunstuitleen)  
+Verzamelgebouw VESTING kleineGRACHT (Galerie Sille)  
 Goudsestraatweg 8  
 3421 GJ Oudewater
 
