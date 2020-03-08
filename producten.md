@@ -1,5 +1,5 @@
 ---
-layout: backgroundproducts
+layout: default3
 ---
 
 # Producten
@@ -11,3 +11,4 @@ Ik werk met de zeer uitgebreide en betaalbare verzorgingslijn van Mila d’Opiz.
 Voor ieder huidtype (zelfs de meest gevoelige!) is er wel een passende productlijn, en voor ieder seizoen een juiste oppepper. Ik adviseer u hier graag over.  
 
 ![mila_d_opiz](/images/gallery/Mila-d’Opiz.jpg "mila_d_opiz")
+3
