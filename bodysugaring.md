@@ -1,5 +1,5 @@
 ---
-layout: default2
+layout: default
 ---
 
 # BODY SUGARING   
@@ -21,8 +21,7 @@ Er zijn vele voordelen t.o.v. “normaal” harsen:
 * 100 % hygiënisch
 * Haren kunnen al verwijderd worden vanaf 2 millimeter lengte
 
-![alt text](/images/gallery/sugaring.jpg "Sugaring")
-
 De behandeling is arbeidsintensiever dan de traditionele methodes dus daardoor ook iets duurder. Informeer voor prijzen via whatsapp of telefonisch.
 
+![alt text](/images/gallery/sugaring.jpg "Sugaring")
 
