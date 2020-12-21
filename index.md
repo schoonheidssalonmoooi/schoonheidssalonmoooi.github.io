@@ -13,4 +13,7 @@ Goudsestraatweg 8
 
 Mijn salon is gevestigd in Verzamelgebouw VESTING kleineGRACHT (Galerie Sille). Er wordt uitsluitend op afspraak gewerkt, waardoor u echt in alle rust van uw behandeling kunt genieten. 
 
-Uiteraard zijn zowel mannen als vrouwen welkom bij mij! 
+Uiteraard zijn zowel mannen als vrouwen welkom bij mij!
+
+Corona update: Uiteraard is ook mijn salon op dit momment helaas gesloten voor bahandelingen. Maar het goede nieuws is dat u ook thuis uw huid in topcionditie kunt houden met
+de producten van Mila d'Opiz. Ik adviseer u hier graag in, dus bel of app gerust voor meer informatie of het bestellen van producten (voor uzelf of als kado). Neem ook eens een kijkje op mijn Instagram pagina! https://www.instagram.com/schoonheidssalonmoooi/
