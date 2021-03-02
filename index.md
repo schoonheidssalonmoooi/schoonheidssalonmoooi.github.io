@@ -15,5 +15,5 @@ Mijn salon is gevestigd in Verzamelgebouw VESTING kleineGRACHT (Galerie Sille). 
 
 Uiteraard zijn zowel mannen als vrouwen welkom bij mij!
 
-Corona update: Uiteraard is ook mijn salon op dit moment helaas gesloten voor behandelingen. Maar het goede nieuws is dat u ook thuis uw huid in topconditie kunt houden met
+Corona update: De salon is weer geopend voor behandelingen. Maar uiteraard kunt u ook thuis uw huid in topconditie houden met
 de producten van Mila d'Opiz. Ik adviseer u hier graag in, dus bel of app gerust voor meer informatie of het bestellen van producten (voor uzelf of als kado). Neem ook eens een kijkje op mijn [Instagram pagina!](https://www.instagram.com/schoonheidssalonmoooi/)
