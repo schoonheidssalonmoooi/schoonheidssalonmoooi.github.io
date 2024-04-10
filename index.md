@@ -16,4 +16,6 @@ Mijn salon is gevestigd in Verzamelgebouw VESTING kleineGRACHT (Galerie Sille). 
 Uiteraard zijn zowel mannen als vrouwen welkom bij mij!
 
 Ik gebruik in mijn salon de producten van Mila d'Opiz, waarmee u ook thuis uw huid in topconditie kunt houden.
-Ik adviseer u hier graag in, dus bel of app gerust voor meer informatie of het bestellen van producten (voor uzelf of als kado). Neem ook eens een kijkje op mijn [Instagram pagina!](https://www.instagram.com/schoonheidssalonmoooi/)
+Ik adviseer u hier graag in, dus bel of app gerust voor meer informatie of het bestellen van producten (voor uzelf of als kado). 
+
+Neem ook eens een kijkje op mijn [Instagram pagina!](https://www.instagram.com/schoonheidssalonmoooi/)
